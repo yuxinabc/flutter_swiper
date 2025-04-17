@@ -9,3 +9,6 @@ ios/.generated/
 ios/Flutter/Generated.xcconfig
 ios/Runner/GeneratedPluginRegistrant.*
 coverage/lcov.info
+
+# FVM Version Cache
+.fvm/
